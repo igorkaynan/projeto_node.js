@@ -28,9 +28,9 @@ Este projeto é desenvolvido em **Node.js** e Express, e implementa uma API simp
 
 2. **Abrir o projeto:**
 
-    - npm start
-    - O front-end estará rodando em http://localhost:3000 ou a porta configurada no package.json do React.
-    - Verifique a comunicação entre o React e o Node.js. As requisições do front-end para o back-end serão feitas automaticamente quando a API for chamada.
+    - Após configurar o back-end, navegue até a pasta do projeto e execute o comando npm start. 
+    - O servidor estará rodando em http://localhost:5000 (ou na porta configurada no arquivo server.js). 
+    - As requisições para a API do Node.js serão processadas automaticamente quando chamadas.
 
 ## Exemplo Visual
 
