@@ -8,12 +8,13 @@ Este projeto é desenvolvido em **Node.js** e Express, e implementa uma API simp
     - Back-end (Node.js):
     - API RESTful utilizando Express.js.
     - Métodos HTTP GET, POST, PUT, e DELETE para manipulação de dados.
-    - Banco de dados simples (pode ser MongoDB, MySQL, ou JSON para dados temporários).
+    - Banco de dados simples (pode ser MongoDB, ou JSON para dados temporários).
     - Validação de dados no servidor para garantir integridade e segurança.
 
 ## Tecnologias Utilizadas
 
 - NODE.JS
+- MONGO DB
 
 ## Como Instalar e Usar
 
