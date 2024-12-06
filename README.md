@@ -23,9 +23,7 @@ Este projeto é desenvolvido em **Node.js** e Express, e implementa uma API simp
 1. Configuração do Back-end (Node.js)
     - Baixe o projeto e extraia os arquivos para uma pasta local.
     - Navegue até a pasta do back-end (geralmente chamada de server ou backend).
-    - Instale as dependências do Node.js com o comando:
-    - npm install
-    - npm start
+    - Instale as dependências do Node.js 
     - O servidor estará rodando em http://localhost:5000 ou a porta configurada no arquivo server.js.
 
 2. **Abrir o projeto:**
@@ -36,7 +34,7 @@ Este projeto é desenvolvido em **Node.js** e Express, e implementa uma API simp
 
 ## Exemplo Visual
 
-Aqui está uma imagem ilustrativa de como a interface do projeto pode se parecer com a comunicação entre o React (front-end) e o Node.js (back-end):
+Aqui está uma imagem ilustrativa de como a interface do projeto pode se parecer com a comunicação do Node.js (back-end):
 
 ![Projeto Node.js]
 
