@@ -1,8 +1,7 @@
 
 # Projeto Full-Stack Node.js e React
 
-Este projeto é desenvolvido em **NODE.JS** este projeto implementa uma API simples utilizando Node.js e Express para realizar operações CRUD (Create, Read, Update) em um recurso
-fictício chamado "items". As operações HTTP básicas implementadas incluem GET, POST e PUT.
+Este projeto é desenvolvido em **Node.js** e Express, e implementa uma API simples para realizar operações CRUD (Create, Read, Update, Delete) em um recurso fictício chamado "items". A API permite realizar operações básicas como GET para recuperar informações dos itens, POST para criar novos itens, PUT para atualizar itens existentes e DELETE para excluir itens.
 
 ## Funcionalidades
 
