@@ -24,17 +24,12 @@ Este projeto é desenvolvido em **Node.js** e Express, e implementa uma API simp
     - Baixe o projeto e extraia os arquivos para uma pasta local.
     - Navegue até a pasta do back-end (geralmente chamada de server ou backend).
     - Instale as dependências do Node.js 
-    - O servidor estará rodando em http://localhost:5000 ou a porta configurada no arquivo server.js.
 
 2. **Abrir o projeto:**
 
     - Após configurar o back-end, navegue até a pasta do projeto e execute o comando npm start. 
     - O servidor estará rodando em http://localhost:5000 (ou na porta configurada no arquivo server.js). 
     - As requisições para a API do Node.js serão processadas automaticamente quando chamadas.
-
-## Exemplo Visual
-
-Aqui está uma imagem ilustrativa de como a interface do projeto pode se parecer com a comunicação do Node.js (back-end):
 
 ![Projeto Node.js]
 
@@ -46,9 +41,3 @@ Este projeto foi inspirado no tutorial do canal Devclub, que pode ser encontrado
 ## Licença
 
 Este projeto é de uso livre para fins educacionais e não possui nenhuma restrição de uso.
-
-
-
-
-
-
